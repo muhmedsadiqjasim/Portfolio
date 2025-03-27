@@ -53,7 +53,8 @@ Adobe Photoshop.
 ## Projects  
 - **Networking Project**: Hands-on experience in configuring basic networks using Packet Tracer.  
 - **Python CLI Programs**: Created simple Python CLI programs for various tasks, which are
-uploaded on GitHub, to see [Click Here](https://github.com/muhmedsadiqjasim/Python-CLI-simple-programs).
+uploaded on GitHub, to see [Click here](https://github.com/muhmedsadiqjasim/Python-CLI-simple-programs).
+- **Portfolio Website**: [Click here](https://muhmedsadiqjasim.github.io/Portfolio/).
 
 ## Additional Information  
 - Strong passion for learning about SOC.  
